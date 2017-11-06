@@ -5,6 +5,6 @@ module.exports = {
   name: 'ember-content-placeholders',
 
   isDevelopingAddon() {
-    return true;
+    return false;
   },
 };
