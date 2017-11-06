@@ -51,6 +51,9 @@
 
 * yield `placeholder.nav`
 
+
+* yield `placeholder.icon`
+
 **TO DO:**
 - `placeholder.list`
 - `placeholder.chart`
